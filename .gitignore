@@ -1,0 +1,10 @@
+_site
+.DS_Store
+node_modules
+.bundle/
+*.swp
+.ruby-version
+.node-version
+.sass-cache/
+vendor/
+temp/
