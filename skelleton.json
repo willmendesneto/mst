@@ -65,7 +65,7 @@
   "required": false,
   "type": {
     "view": "select",
-    options: [
+    "options": [
       {"name": "Capa", "id": "cover"},
       {"name": "Destaque", "id": "featured-news"},
       {"name": "Vídeo", "id": "tv"}
