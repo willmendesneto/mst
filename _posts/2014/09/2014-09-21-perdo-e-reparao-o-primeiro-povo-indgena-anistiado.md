@@ -3,8 +3,8 @@ date: "2014-09-21T17:05:56-03:00"
 tags:
   - tag: fome
 hat: Terra indígena
-title: "Perdão e reparação, o primeiro povo indígena anistiado"
-support_line: "Uma tarde de calor em Brasília. No Ministério da Justiça mais uma sessão ordinária da Comissão da Anistia. Um momento histórico, nesse dia 19 de setembro. Pela primeira vez vão ser julgados  processos de anistia solicitado por um povo indígena."
+title: "FAO: boa parte da diminuição da fome no Brasil se deve à agricultura camponesa"
+support_line: "Avaliação divulgada pela Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), coloca o Brasil entre os 63 países no mundo que conseguiram diminuir a pobreza extrema em seu território."
 menu: agricultura camponesa
 images_hd: fsdfas
 published: false
