@@ -8,6 +8,7 @@ youtube_link: ""
 tags:
   - tag: Paraíba
   - tag: Reforma-Agrária
+  - tag: movimento-sem-terra
 files: []
 type: ""
 support_line: "Foram necessários 31 anos de luta para que a Usina Tanques, no município de Alagoa Grande (PB), fosse desapropriada e destinada à Reforma Agrária."
@@ -16,7 +17,7 @@ hat: Vitória
 label: ""
 images_hd: "http://farm6.staticflickr.com/5591/15080633428_ba900bc098_b.jpg"
 menu: reforma agrária
-published: true
+published: false
 date: "2014-09-17T09:22:08-03:00"
 
 ---
