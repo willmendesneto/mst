@@ -18,10 +18,10 @@ files:
     small: "http://farm3.staticflickr.com/2949/15352740825_31a13d1189_n.jpg"
     title: carlos-marighella-600x207.png
     $$hashKey: 03O
-published: false
+published: true
 images_hd: "http://farm3.staticflickr.com/2949/15352740825_31a13d1189_n.jpg"
 
 ---
 <p>&nbsp;</p>
 
-<p><img class="ng-scope" ng-repeat="file in files" ng-show="_index === $index" ng-src="http://farm4.staticflickr.com/3910/15166045480_f304be4798_n.jpg" src="http://farm4.staticflickr.com/3910/15166045480_f304be4798_n.jpg" /></p>
+<p><img alt="" src="http://farm4.staticflickr.com/3910/15166045480_f304be4798_n.jpg" /></p>
