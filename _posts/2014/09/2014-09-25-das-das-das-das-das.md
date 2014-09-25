@@ -22,4 +22,6 @@ published: false
 images_hd: "http://farm3.staticflickr.com/2949/15352740825_31a13d1189_n.jpg"
 
 ---
-<p>&nbsp;adadas<img class="ng-scope" ng-repeat="file in files" ng-show="_index === $index" ng-src="http://farm3.staticflickr.com/2949/15352740825_31a13d1189_n.jpg" src="http://farm3.staticflickr.com/2949/15352740825_31a13d1189_n.jpg" style="line-height:1.6" /><span style="line-height:1.6">a</span></p>
+<p>&nbsp;</p>
+
+<p><img class="ng-scope" ng-repeat="file in files" ng-show="_index === $index" ng-src="http://farm4.staticflickr.com/3910/15166045480_f304be4798_n.jpg" src="http://farm4.staticflickr.com/3910/15166045480_f304be4798_n.jpg" /></p>
