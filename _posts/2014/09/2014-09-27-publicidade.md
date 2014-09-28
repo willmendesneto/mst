@@ -18,7 +18,7 @@ files:
     thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
     title: Guida utente.pdf
     $$hashKey: "026"
-published: true
+published: false
 images_hd: "http://farm4.staticflickr.com/3880/15187517490_8ab1598db9_n.jpg"
 
 ---
