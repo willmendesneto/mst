@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>http://novo.mst.org.br/2014/09/27/publicidade.html</loc>
+    
+    <lastmod>2014-09-27T23:55:33+00:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://novo.mst.org.br/2014/09/25/das-das-das-das-das.html</loc>
     
     <lastmod>2014-09-25T18:08:28+00:00</lastmod>
@@ -6837,14 +6845,14 @@
   
   <url>
     <loc>http://novo.mst.org.br/noticias/</loc>
-    <lastmod>2014-09-28T03:57:39+00:00</lastmod>
+    <lastmod>2014-09-28T04:08:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://novo.mst.org.br/</loc>
-    <lastmod>2014-09-28T03:57:39+00:00</lastmod>
+    <lastmod>2014-09-28T04:08:49+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
