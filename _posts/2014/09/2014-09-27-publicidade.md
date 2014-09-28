@@ -18,11 +18,11 @@ files:
     thumbnail: "http://farm4.staticflickr.com/3852/15187675380_7b00f5fdff_b.jpg"
     title: Guida utente.pdf
     $$hashKey: "026"
-published: false
+published: true
 images_hd: "http://farm4.staticflickr.com/3880/15187517490_8ab1598db9_n.jpg"
 
 ---
-<p>O Brasil de Fato SP &eacute; uma publica&ccedil;&atilde;o semanal, com tiragem de 100 mil exemplares, distribu&iacute;do em diversas regi&otilde;es da capital paulista, abrangendo um p&uacute;blico morador da cidade de S&atilde;o Paulo e da Regi&atilde;o Metropolitana.<br />
+<p><img alt="background.jpg" src="http://farm4.staticflickr.com/3880/15187517490_8ab1598db9_n.jpg" />O Brasil de Fato SP &eacute; uma publica&ccedil;&atilde;o semanal, com tiragem de 100 mil exemplares, distribu&iacute;do em diversas regi&otilde;es da capital paulista, abrangendo um p&uacute;blico morador da cidade de S&atilde;o Paulo e da Regi&atilde;o Metropolitana.<br />
 <br />
 Enquanto conte&uacute;do jornal&iacute;stico, al&eacute;m da editoria de S&atilde;o Paulo, o jornal conta com editorias de Brasil, Mundo, Entrevista, Cultura, Esporte, Servi&ccedil;os, Entretenimento, al&eacute;m de Editoriais e Colunistas.<br />
 <br />
@@ -40,8 +40,7 @@ O Brasil de Fato SP oferece espa&ccedil;o para an&uacute;ncios publicit&aacute;r
 <br />
 Entre as possibilidades de an&uacute;ncio est&atilde;o o de p&aacute;gina inteira (24,6 x 29,7cm) e o de tr&ecirc;s colunas (14,1 x 16,2cm), sendo estes os formatos de maior aceita&ccedil;&atilde;o e sa&iacute;da junto aos anunciantes.&nbsp;<br />
 <br />
-O an&uacute;ncio publicit&aacute;rio pode ser enviado em formato PDF ou Jpeg, com alta resolu&ccedil;&atilde;o, pela ag&ecirc;ncia. O fechamento ocorre &agrave;s quintas-feiras, at&eacute; &agrave;s 17h.<br />
-&nbsp;</p>
+O an&uacute;ncio publicit&aacute;rio pode ser enviado em formato PDF ou Jpeg, com alta resolu&ccedil;&atilde;o, pela ag&ecirc;ncia. O fechamento ocorre &agrave;s quintas-feiras, at&eacute; &agrave;s 17h.</p>
 
 <p>Entre em contato conosco para mais informa&ccedil;&otilde;es.<br />
 E-mails:<br />
